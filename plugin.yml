@@ -1,0 +1,5 @@
+name: PluginName
+main: PostgreSQL1703\PluginName\Main
+version: 0.10.0
+api: 3.0.0
+author: PostgreSQL1703
