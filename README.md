@@ -1,2 +1,2 @@
-# Example-Plugin
-This is a Example-Plugin from me
+# Template-Plugin
+This is a Template-Plugin from me
